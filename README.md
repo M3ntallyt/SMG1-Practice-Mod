@@ -20,7 +20,7 @@ The source companion is supplied alongside the Windows package. Source code and 
 1. Extract the **entire Windows ZIP**, keeping `mod` and `tools` beside the executable.
 2. Run `RMGK_Perma_Patcher_v1.0.exe` and select a **clean Korean RMGK01 ISO, WBFS or RVZ**.
 3. Choose **one output format: ISO, WBFS or RVZ**, then select a new output filename.
-4. Wait for **DONE** and launch the resulting image normally in Dolphin.
+4. Wait for **DONE** and launch the resulting image normally in Dolphin or USB Loader GX.
 
 Only one output format is produced per run. Launch permanently patched images without applying the Riivolution mod again. Python and Go are not required to run the patcher.
 
