@@ -12,7 +12,6 @@ The patcher and distribution documentation are in English. In-game text, audio, 
 | --- | --- |
 | `RMGK_Perma_Patcher_v1.0_WINDOWS.zip` | Windows 64-bit permanent patcher, with the mod and disc tools included. |
 | `RMGK_Practice_v1.0_DOLPHIN.zip` | Complete Dolphin/Riivolution mod package. |
-| `RMGK_Perma_Patcher_v1.0_SOURCE.zip` | Patcher and mod development sources, reports, licenses and corresponding third-party source archives. |
 
 The source companion is supplied alongside the Windows package. Source code and detailed verification reports are inside the downloadable packages.
 
