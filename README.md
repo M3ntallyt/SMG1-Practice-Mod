@@ -28,7 +28,7 @@ Only one output format is produced per run. Launch permanently patched images wi
 ## Dolphin / Riivolution
 
 1. Close Dolphin and extract the complete Dolphin ZIP into `Dolphin/Load/Riivolution`.
-2. Start the clean Korean game with Riivolution patches and select **IGT v1.0**.
+2. Start the clean Korean game with Riivolution patches and select **IGT v1.0.0**.
 3. Start normally from your game save, rather than an emulator savestate from an older mod build.
 
 Existing game saves, PBs, stored positions and preferences remain compatible.
@@ -60,8 +60,6 @@ Hold a combination for **30 frames**. Each hold triggers once; release before re
 In levels, press **1** to save a position and **2** to restore the current context's slot. A successful position load invalidates that attempt for PBs while timing continues. The complete controls, Observatory shortcuts and save-data details are in each package's English README.
 
 ## Version and validation
-
-**v1.0** is the public release version, based on development build v203. Gameplay patch values and resource bytes are preserved, and the permanent patcher's generated DOL matches the preceding working patcher.
 
 Validation passed: **12 Go tests, 10 native PPC checks and all nine single-format input/output pairs**. Container tests use a small synthetic Wii disc. Full gameplay and Windows dialogs were not executed during this packaging update.
 
