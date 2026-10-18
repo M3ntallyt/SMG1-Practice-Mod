@@ -50,7 +50,7 @@ Hold a combination for **30 frames**. Each hold triggers once; release before re
 | Z + Down | Toggle the level/dome timer display. |
 | Z + Left | Toggle the input display. |
 | Z + Up | Toggle music. |
-| Z + Right | Toggle Luma respawn for the next fresh attempt. |
+| Z + Right | Toggle Hungry Luma respawn for the next fresh attempt. |
 | C + Up | Toggle power-up explanations and first presentation. |
 | C + Right | Toggle Rolling Green / Loopdeeloop tutorials. |
 | C + Left | Toggle position controls and Observatory teleports. |
