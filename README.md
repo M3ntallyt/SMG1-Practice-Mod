@@ -1,4 +1,4 @@
-# RMGK Practice v1.0
+# RMGK Practice v1.0.0
 
 A practice mod for **Super Mario Galaxy Korea (RMGK01)**, with a Windows permanent patcher and a Dolphin/Riivolution package.
 
@@ -10,8 +10,8 @@ The patcher and distribution documentation are in English. In-game text, audio, 
 
 | File | Purpose |
 | --- | --- |
-| `RMGK_Perma_Patcher_v1.0_WINDOWS.zip` | Windows 64-bit permanent patcher, with the mod and disc tools included. |
-| `RMGK_Practice_v1.0_DOLPHIN.zip` | Complete Dolphin/Riivolution mod package. |
+| `RMGK_Perma_Patcher_v1.0.0_WINDOWS.zip` | Windows 64-bit permanent patcher, with the mod and disc tools included. |
+| `RMGK_Practice_v1.0.0_RIIVOLUTION.zip` | Complete Dolphin/Riivolution mod package. |
 
 The source companion is supplied alongside the Windows package. Source code and detailed verification reports are inside the downloadable packages.
 
